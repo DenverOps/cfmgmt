@@ -9,4 +9,4 @@ inputs:
   - name: config-repo
 
 run:
-  path: config-repo/ci/tasks/cf-mgmt.sh
+  path: config-repo/dev/ci/tasks/cf-mgmt.sh
