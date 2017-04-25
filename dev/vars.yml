@@ -1,6 +1,6 @@
-git_repo_uri: <your git repo uri>
-system_domain: <your cf system domain>
-user_id: <user account with permission to create orgs/spaces>
-password: <password of user account with permission to create orgs/spaces>
+git_repo_uri: https://github.com/DenverOps/cfmgmt
+system_domain: run.haas-83.pez.pivotal.io
+user_id: cfmgmt
+password: Piv0tal3319
 client_secret: <client secret for uaac for user_id>
 ldap_password: <password to bind to ldap>
