@@ -1,0 +1,6 @@
+git_repo_uri: https://github.com/DenverOps/cfmgmt
+system_domain: cfapps.haas-65.pez.pivotal.io
+user_id: cfmgmt
+password: Piv0tal3319
+client_secret: <client secret for uaac for user_id>
+ldap_password: <password to bind to ldap>
