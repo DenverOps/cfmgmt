@@ -1,7 +1,8 @@
 org: test
 org-billingmanager:
   ldap_users: []
-  users: []
+  users: [pnath@pivotal.io
+ ]
   ldap_group: ""
 org-manager:
   ldap_users: []
